@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/src/com/corso/java/orange/OtherProjects/NegozioAlimentare/negozioRemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/NegozioAlimentare/negozioRemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/com/NegozioAlimentare/negozioRemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/com/corso/java/orange/NegozioAlimentare/negozioRemo" vcs="Git" />
+  </component>
+</project>
