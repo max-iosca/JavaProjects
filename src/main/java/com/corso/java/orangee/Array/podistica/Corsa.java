@@ -17,7 +17,8 @@ public class Corsa {
 
     public void iscriviAtleta(Atleta atleta){
         if(atleta == null){
-            System.out.println("\n🤘🤘🤘 HAI CERCATO DI ISCRIVRE UN NULL 🤘🤘🤘");
+            System.out.println("\n HAI CERCATO DI ISCRIVRE UN NULL ");
+            //NON USO EXCEPTION...FA
             return;
         }
         for(Atleta partecipante : this.registroPartecipanti){

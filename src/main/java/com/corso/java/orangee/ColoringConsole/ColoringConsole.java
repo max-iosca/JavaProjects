@@ -1,7 +1,7 @@
 package com.corso.java.orangee.ColoringConsole;
 
 /**
- * una "froceria" per colorare il vostro testo in console.
+ * ricordati di fare l'import del package o non puoi usare un tubo!!
  *
  *
  */
