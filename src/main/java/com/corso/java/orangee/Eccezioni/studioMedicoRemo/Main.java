@@ -4,9 +4,15 @@ import java.util.*;
 
 public class Main {
 
+    String qualcosa = "ciao";
+
     private static PoliAmbulatorio poliAmbulatorio;
 
     public static void main(String[] args) {
+
+        Main main = new Main();
+        String altraCosa = main.qualcosa;
+
 
         Medico medico1 = new Medico("Medico1", "cardiologia");
         Medico medico2 = new Medico("Medico2", "pneumologia");

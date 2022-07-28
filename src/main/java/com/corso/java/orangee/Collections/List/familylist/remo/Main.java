@@ -21,7 +21,6 @@ public class Main {
         popolazione.add(new Persona("Charles", "Darwin", "DRWCHR", "maschio"));
         popolazione.add(new Persona("Jocelyn", "Bell", "MRRCRR", "femmina"));
 
-
         List<Famiglia> famiglie = new LinkedList<>();
 
         System.out.println(" Modo 1 -------------->> ");

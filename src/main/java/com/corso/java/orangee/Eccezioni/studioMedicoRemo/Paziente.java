@@ -1,5 +1,4 @@
 package com.corso.java.orangee.Eccezioni.studioMedicoRemo;
-
 import java.util.Objects;
 
 public class Paziente {
@@ -17,7 +16,6 @@ public class Paziente {
     public void aggiungiVisitaRichiesta() {
         this.nrVisiteRichieste++;
     }
-
 
     public int getNrVisiteRichieste() {
         return nrVisiteRichieste;
@@ -51,4 +49,6 @@ public class Paziente {
     public void setCf(String cf) {
         this.cf = cf;
     }
+
+    public static void nomeMetodo(){}
 }
